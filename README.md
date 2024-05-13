@@ -1,7 +1,7 @@
 # Backend for E-Commerial website Python DJANGO Framework
 
 ## Models of the application
-[![Watch the video](https://youtu.be/WFWsgbD6JpA)]
+[![Watch the video](https://youtu.be/WFWsgbD6JpA)](https://youtu.be/WFWsgbD6JpA)
 
 
 
