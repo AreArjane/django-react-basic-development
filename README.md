@@ -1,4 +1,4 @@
-# Backend for E-Commerial website Python DJANGO Framework
+# Backend for E-Commerial website Python DJANGO Framework API & React
 
 ## Models of the application
 [![Watch the video](https://img.youtube.com/vi/WFWsgbD6JpA/hqdefault.jpg)](https://youtu.be/WFWsgbD6JpA)
